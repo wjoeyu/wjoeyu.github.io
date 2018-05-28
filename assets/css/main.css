@@ -1924,6 +1924,75 @@
 			display: none;
 		}
 
+    .i {
+      display: inline-block;
+      animation-delay: .8s;
+      -webkit-animation-delay: .8s;
+      -webkit-animation-name: colorize;
+      -webkit-animation-duration: 1.2s;
+        -moz-animation-name: colorize;
+    }
+
+    .am {
+      display: inline-block;
+      animation-delay: 1.6s;
+      -webkit-animation-delay: 1.6s;
+      -webkit-animation-name: colorize1;
+      -webkit-animation-duration: 1.2s;
+        -moz-animation-name: colorize1;
+    }
+
+    .joey {
+      display: inline-block;
+      animation-delay: 2.4s;
+      -webkit-animation-delay: 2.4s;
+      -webkit-animation-name: colorize2;
+      -webkit-animation-duration: 1.2s;
+        -moz-animation-name: colorize2;
+    }
+
+    .wu {
+      display: inline-block;
+      animation-delay: 3.2s;
+      -webkit-animation-delay: 3.2s;
+      -webkit-animation-name: colorize3;
+      -webkit-animation-duration: 1.2s;
+        -moz-animation-name: colorize3;
+    }
+
+    @-webkit-keyframes colorize {
+      from { color: #ffc107;}
+      to   { color: white;}
+    }
+    @keyframes colorize {
+      from { color: #ffc107;}
+      to   { color: white;}
+    }
+    @-webkit-keyframes colorize1 {
+      from { color: #ffc107;}
+      to   { color: white;}
+    }
+    @keyframes colorize1 {
+      from { color: #ffc107;}
+      to   { color: white;}
+    }
+    @-webkit-keyframes colorize2 {
+      from { color: #ffc107;}
+      to   { color: white;}
+    }
+    @keyframes colorize2 {
+      from { color: #ffc107;}
+      to   { color: white;}
+    }
+    @-webkit-keyframes colorize3 {
+      from { color: #ffc107;}
+      to   { color: white;}
+    }
+    @keyframes colorize3 {
+      from { color: #ffc107;}
+      to   { color: white;}
+    }
+
 /* Header */
 
 	#header {
