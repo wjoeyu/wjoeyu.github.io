@@ -1935,8 +1935,8 @@
 
     .am {
       display: inline-block;
-      animation-delay: 1.6s;
-      -webkit-animation-delay: 1.6s;
+      animation-delay: 1.4s;
+      -webkit-animation-delay: 1.4s;
       -webkit-animation-name: colorize1;
       -webkit-animation-duration: 1.2s;
         -moz-animation-name: colorize1;
@@ -1944,8 +1944,8 @@
 
     .joey {
       display: inline-block;
-      animation-delay: 2.4s;
-      -webkit-animation-delay: 2.4s;
+      animation-delay: 2.0s;
+      -webkit-animation-delay: 2.0s;
       -webkit-animation-name: colorize2;
       -webkit-animation-duration: 1.2s;
         -moz-animation-name: colorize2;
@@ -1953,8 +1953,8 @@
 
     .wu {
       display: inline-block;
-      animation-delay: 3.2s;
-      -webkit-animation-delay: 3.2s;
+      animation-delay: 2.6s;
+      -webkit-animation-delay: 2.6s;
       -webkit-animation-name: colorize3;
       -webkit-animation-duration: 1.2s;
         -moz-animation-name: colorize3;
