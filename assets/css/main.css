@@ -2528,6 +2528,13 @@
 				padding: 6em 0 6em 0;
 			}
 
+        .profile-pic {
+          width: 38%;
+          min-width: 150px;
+          max-width: 400px;
+          margin-bottom: 4px;
+        }
+
 				#header header {
 					padding-left: 2em;
 					padding-right: 2em;
